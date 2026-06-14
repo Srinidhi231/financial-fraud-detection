@@ -97,6 +97,21 @@ The system expects CSV files with the following characteristics:
 - Must include all features used during training
 - Missing values will be filled with -999
 
+## Model Performance
+
+- Algorithm: Random Forest Classifier
+- Data Preprocessing and Feature Engineering
+- Fraud Probability Prediction
+- Interactive Streamlit Dashboard
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Streamlit
+
 ## Requirements
 
 - Python 3.7+
